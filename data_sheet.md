@@ -32,7 +32,7 @@ The dataset is too small for real-life modeling though.
 
 The dataset is available in public domain.
 
-https://github.com/pycaret/pycaret/blob/master/README.md![image](https://github.com/user-attachments/assets/4362d4e4-5b52-4052-9170-5332152a12c8)
+https://github.com/pycaret/pycaret/blob/master/README.md
 
 Pycaret library which contains insurance dataset is available under MIT license. 
 
