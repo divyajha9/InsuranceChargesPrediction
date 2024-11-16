@@ -4,6 +4,12 @@
 ## Brief
 This project uses demograhics details e.g. age,sex,bmi,# children,smoker,region information to predict the insurnace charges for the prospective customer. Various regression models i.e. Linear Regression, Ridge Regression, Lasso Regression, K-Nearest neighbors, Decision Tree, Random Forest, Gradient Boost, Adaboost, XGBoost and CatBoost are evaluated and their MAE/R-Square metrics are calculated.
 
+Please refer, 
+
+PIC_Data_Profiling.ipynb for First Level Data Analysis and Visualisation
+
+Predicting_Insurance_Charges.ipynb for various regression model training and predictions.
+
 ## Data
 This project uses insurance dataset supplied with PyCaret. https://github.com/pycaret/pycaret/blob/master/README.md
 
@@ -21,7 +27,7 @@ A number of regression models i.e. Linear Regression, Ridge Regression, Lasso Re
 
 ## Results
 
-Random Forest, Gradient Boost, XGBoost and CatBoost are giving good results and will be recommeded for similar analysis.
+Random Forest, Gradient Boost, XGBoost and CatBoost are giving good results and should be used for similar analysis.
 
 ## Contact Details
-Twitter : divyaprakashjha
+Twitter : @divyaprakashjha
