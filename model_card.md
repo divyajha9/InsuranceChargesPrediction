@@ -1,5 +1,7 @@
 # Model Card
 
+This ML model uses various demograhics details e.g. age,sex,bmi,# children,smoker,region information to predict the insurnace charges for the prospective customer. 
+
 ## Model Description
 
 **Input:** 
@@ -8,7 +10,7 @@ Insurance Dataset
 
 Numerical Features: Age, # Children, bmi
 
-Categorical Features: Sex, Region, Smoker, 
+Categorical Features: Sex, Region, Smoker
 
 **Output:** 
 
