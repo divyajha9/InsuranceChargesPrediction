@@ -14,7 +14,7 @@ Categorical Features: Sex, Region, Smoker
 
 **Output:** 
 
-Charges
+Predicted Charges
 
 **Model Architecture:** 
 
