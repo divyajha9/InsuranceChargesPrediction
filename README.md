@@ -2,7 +2,7 @@
 
 
 ## Brief
-This project uses demograhics details e.g. age,sex,bmi,# children,smoker,region information to predict the insurnace charges for the prospective customer. Various regression models i.e. Linear Regression, Ridge Regression, Lasso Regression, K-Nearest neighbors, Decision Tree, Random Forest, Gradient Boost, Adaboost, XGBoost and CatBoost are evaluated and their MAE/R-Square metrics are calculated.
+This project uses demograhics details e.g. age,sex,bmi,# children,smoker,region information to predict the insurnace charges for the prospective customer. Various regression models i.e. Linear Regression, Ridge Regression, Lasso Regression, K-Nearest neighbors, Decision Tree, Random Forest, Gradient Boost, Adaboost, XGBoost and CatBoost are evaluated and their MAE/R2-Score metrics are calculated.
 
 Please refer, 
 
@@ -21,7 +21,7 @@ PyCaret is completely free and open-source and licensed under the [MIT](https://
 
 
 ## Model 
-A number of regression models i.e. Linear Regression, Ridge Regression, Lasso Regression, K-Nearest neighbors, Decision Tree, Random Forest, Gradient Boost, Adaboost, XGBoost and CatBoost are evaluated and their MAE/R-Square metrics are calculated. 
+A number of regression models i.e. Linear Regression, Ridge Regression, Lasso Regression, K-Nearest neighbors, Decision Tree, Random Forest, Gradient Boost, Adaboost, XGBoost and CatBoost are evaluated and their MAE/R2-score metrics are calculated. 
 
 ## Hyperparameter Optimisation
 
