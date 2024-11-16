@@ -1,4 +1,4 @@
-# Insurance Charges/Expenses prediction based on demographics 
+# Insurance Charges prediction based on demographics 
 
 
 ## Brief
