@@ -34,7 +34,7 @@ The dataset is available in public domain.
 
 https://github.com/pycaret/pycaret/blob/master/README.md
 
-PyCaret is completely free and open-source and licensed under the [MIT (https://github.com/pycaret/pycaret/blob/master/LICENSE)] license.
+PyCaret is completely free and open-source and licensed under the MIT license.
 
 ## Maintenance
 
