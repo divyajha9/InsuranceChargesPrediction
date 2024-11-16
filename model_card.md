@@ -1,23 +1,43 @@
 # Model Card
 
-See the [example Google model cards](https://modelcards.withgoogle.com/model-reports) for inspiration. 
-
 ## Model Description
 
-**Input:** Describe the inputs of your model 
+**Input:** 
 
-**Output:** Describe the output(s) of your model
+Insurance Dataset
 
-**Model Architecture:** Describe the model architecture you’ve used
+Numerical Features: Age, # Children, bmi
+
+Categorical Features: Sex, Region, Smoker, 
+
+**Output:** 
+
+Charges
+
+**Model Architecture:** 
+
+Regression Models
+<li>LinearRegression</li>
+<li>Ridge</li>
+<li>Lasso</li>
+<li>KNeighborsRegressor</li>
+<li>DecisionTreeRegressor</li>
+<li>RandomForestRegressor</li>
+<li>GradientBoostingRegressor</li>
+<li>AdaBoostRegressor</li>
+<li>XGBRegressor</li>
+<li>CatBoostRegressor</li>
 
 ## Performance
 
-Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. 
+![image](https://github.com/user-attachments/assets/91fbd553-6cfd-4666-8adf-2ca6146a86a7)
 
 ## Limitations
 
-Outline the limitations of your model.
+Less Number of Features
+
+Smaller Dataset
 
 ## Trade-offs
 
-Outline any trade-offs of your model, such as any circumstances where the model exhibits performance issues. 
+None noted. Smaller dataset hence should not be computationally intensive.
